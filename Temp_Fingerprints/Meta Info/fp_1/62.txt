@@ -1,0 +1,5 @@
+Type : Whorl
+Loop  : 146	159
+Loop  : 146	199
+Delta : 67	248
+Delta : 207	286

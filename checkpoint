@@ -1,0 +1,2 @@
+model_checkpoint_path: "fingerprint_model100-290"
+all_model_checkpoint_paths: "fingerprint_model100-290"
